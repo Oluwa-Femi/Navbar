@@ -1,5 +1,5 @@
-# myportfolio
-I am building a portfolio site for myself using HTML, CSS, a bit of jquery and bootstrap
+# navbar
+Navbar using react, react spring and styled-components
 
 # UPDATE
 I am switching the site to CRA.
